@@ -138,5 +138,7 @@ def mainMenu():
 
 init_csv()
 #init_log()
+'''if gagawa ka ulit ng bago or gagawin mong empty yung csv, use this para magkalaman agad
+nakacomment sa may taas yung def nito'''
 mainMenu()
 print(parkLogs)
