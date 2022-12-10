@@ -118,7 +118,6 @@ def mainMenu():
         "(P) Park\n"
         "(U) Unpark\n"
         "(L) Parking Logs\n"
-        "(S) Parking Statistics\n"
         "(E) Exit"
             )
     print("Enter Choice:", end=" "); choice = input()
